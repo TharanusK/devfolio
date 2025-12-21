@@ -16,8 +16,9 @@ const workExperience = [
       "Designed and developed an Integrated third-party APIs page to facilitate seamless data access and enhance user experience while debugging using Vue.js.",
       "Built responsive web and mobile user interfaces, ensuring cross-platform compatibility.",
       "Designed software system flow and database structures to improve development processes.",
-      "Implemented Supabase Edge Functions as a type-safe Backend for Frontend (BFF), delivering optimized, schema-defined API responses to client",
-      "Developed and maintained minor feature on mobile application using React Native",
+      "Implemented Supabase Edge Functions as a type-safe Backend for Frontend (BFF), delivering optimized, schema-defined API responses to client.",
+      "Developed and maintained minor feature on mobile application using React Native.",
+      "Collaborated in a Scrum-based Agile team to improve the efficiency of application development.",
     ],
   },
 ];
