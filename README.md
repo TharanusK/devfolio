@@ -2,8 +2,6 @@
 
 A modern, responsive personal portfolio and curriculum vitae website built with Next.js 16, standard Tailwind CSS, and shadcn/ui.
 
-![Portfolio Preview](/opengraph-image.png)
-
 ## Features
 
 - **Modern Design**: Clean, responsive UI with Dark Mode support.
