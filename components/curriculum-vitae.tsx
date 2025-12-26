@@ -7,7 +7,7 @@ const workExperience = [
   {
     title: "Junior Fullstack Developer",
     period: "2023 - Present",
-    company: "Infused Co., Ltd.",
+    company: "Infuse Co., Ltd.",
     description:
       "Designed, developed, and maintained responsive webs and e-commerce application, delivering end-to-end solutions from UI/UX and database design to frontend implementation, while improving development processes.",
     highlights: [
